@@ -21,7 +21,7 @@ repository               : "iris1z/iris1z.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.png"
+  avatar           : "avatar.png"
   name             : "Xiaoxue Zhao"
   bio              : "A student at UCB studying computational social science."
   location         : "Berkeley, CA"
