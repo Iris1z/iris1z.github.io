@@ -7,6 +7,8 @@ redirect_from:
   - /about.hmtl
 ---
 
+Hi, I'm Xiaoxue Zhao, a student at UCB studying computational social science. This website showcases my research, projects, and interests.
+
 Projects
 ======
 [Click here to view my projects](./projects.md)
