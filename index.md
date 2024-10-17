@@ -1,11 +1,11 @@
 ## Welcome to Xiaoxue Zhao's Website
 Hi, I'm Xiaoxue Zhao, a student at UCB studying computational social science. This website showcases my research, projects, and interests.
 
-### Projects
+## Projects
 [Click here to view my projects](./projects.md)
 
-### About Me
+## About Me
 Learn more about me and my academic journey.
 
-### Contact
+## Contact
 Feel free to reach out through the contact page.
