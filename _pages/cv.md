@@ -14,23 +14,6 @@ Education
 * M.S. in Urban Planning, Nanjing University, 2023 - 2026 (expected)
 * B.S. in Urban Planning, Wuhan University, 2018 - 2023
 
-# Work experience
-# ======
-# * Spring 2024: Academic Pages Collaborator
-#  * Github University
-#  * Duties includes: Updates and improvements to template
-#  * Supervisor: The Users
-
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
-  
 Skills
 ======
 * Coming soon...
